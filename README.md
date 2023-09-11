@@ -13,7 +13,7 @@
 
 ## Namaste, World! 🙏
 
-<a href="https://kartikdhawan.in/home" target="_blank" rel="noreferrer">
+<a align="right" href="https://kartikdhawan.in/home" target="_blank" rel="noreferrer">
   <img src="https://github.com/kartik-dhawan/kartik-dhawan/blob/e5b7edf7a33a9949b5cbb5bbad6fc98cb6e685f8/Ola%CC%81%20-%20Relaxing.png"     alt="Personal portfolio of Kartik Dhawan" width=400px height=240px/>
 </a>
 
