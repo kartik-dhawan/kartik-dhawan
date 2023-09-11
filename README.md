@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/kartik-dhawan-13585b211/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://kartikdhawan.in/home">
+      <img src="https://img.shields.io/badge/Portfolio-red" alt="Portfolio Badge"/>
+    </a>
   </div>
 </div>
 
