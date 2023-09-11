@@ -7,9 +7,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://kartikdhawan.in/home">
-      <img src="https://img.shields.io/badge/Portfolio-red" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=kartik-dhawan&style=flat-square&color=blue" alt=""/>
 </div>
 
 
