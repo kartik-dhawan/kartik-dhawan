@@ -27,11 +27,9 @@
 
 ---
 
-[![](https://user-images.githubusercontent.com/21218732/108171128-12e83780-7121-11eb-9c43-ed5a8cdfe1fa.png)](https://ayushgupta.tech)
-[![](https://user-images.githubusercontent.com/21218732/108171206-30b59c80-7121-11eb-9047-e654986f459f.png)](https://twitter.com/_guptaji_)
-[![](https://user-images.githubusercontent.com/21218732/108171283-4c20a780-7121-11eb-9904-883c701c3824.png)](https://www.instagram.com/_.guptaji._/)
-[![](https://user-images.githubusercontent.com/21218732/108171336-622e6800-7121-11eb-8a30-b436f29077a4.png)](https://medium.com/@guptaji)
-[![](https://user-images.githubusercontent.com/21218732/108171405-796d5580-7121-11eb-8ab2-8d78efb29082.png)](https://www.linkedin.com/in/guptaji6/)
+[![](https://user-images.githubusercontent.com/21218732/108171128-12e83780-7121-11eb-9c43-ed5a8cdfe1fa.png)](https://kartikdhawan.in)
+[![](https://user-images.githubusercontent.com/21218732/108171283-4c20a780-7121-11eb-9904-883c701c3824.png)](https://www.instagram.com/notkartik)
+[![](https://user-images.githubusercontent.com/21218732/108171405-796d5580-7121-11eb-8ab2-8d78efb29082.png)](https://www.linkedin.com/in/kartik-dhawan-13585b211/)
 
 <!--
 **gupta-ji6/gupta-ji6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
