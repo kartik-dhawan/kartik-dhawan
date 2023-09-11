@@ -17,12 +17,12 @@
   <img align="right" src="https://github.com/kartik-dhawan/kartik-dhawan/blob/e5b7edf7a33a9949b5cbb5bbad6fc98cb6e685f8/Ola%CC%81%20-%20Relaxing.png"     alt="Personal portfolio of Kartik Dhawan" width=400px height=240px/>
 </a>
 
-👋 Heyo, I am Kartik Dhawan.
+👋 Hi, My name is Kartik Dhawan.
 
 *Frontend Engineer 1 at [3PillarGlobal](https://www.3pillarglobal.com/)*
 
 - I [`build`](https://kartikdhawan.in/projects) things for the web and mobile.
-- I'm a passionate [`traveller`](https://instagram.com/notkartikk).
+- I have a deep Enthusiasm for [`traveling`](https://instagram.com/notkartikk).
 - I have keen interest in designing, despite being a developer.
 
 ---
